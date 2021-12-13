@@ -3,7 +3,7 @@
     "dominatingProperty": "Diameter",
     "category": "MillingEndFlat",
     "description": "Konturfräser",
-    "toolId": 10093,
+    "toolId": 10193,
     "shankGroup": ["ShaftDiameter", "BodyLength"],
     "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
     "toolLengthGroup": ["OverallLength"],
