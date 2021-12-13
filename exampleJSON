@@ -1,0 +1,1543 @@
+[
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "Konturfräser",
+    "toolId": 10093,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.028262199999999932
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.028249199999999947
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.02
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.02
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.06
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 2
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.785398163
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068040",
+    "currentTotalPath": 0.2492235816580096,
+    "currentTotalLife": 6.8859999999994645,
+    "name": "Zweischneider",
+    "toolNumber": 17,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMTciLCJIYXNoIjoiMzc1MzAwODczNiIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.rxIgUl7EhzBijOdttU1RovcW3KDakgLxhlg55RDZbJg"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "mit Freischliff",
+    "toolId": 8006,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.03648239999999976
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.03648239999999976
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.019
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.0078
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.027
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.063
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 3
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068040A",
+    "currentTotalPath": 170.57585403793777,
+    "currentTotalLife": 3904.5439999580417,
+    "name": "Dreischneider",
+    "toolNumber": 5,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNSIsIkhhc2giOiIzNDkzNjUyNTc2IiwiZXhwIjoxNjM3ODgxMjAwLCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.4S7l0gyCEC5t0UCBfIXwMwHqr-g1ljST1KntNEh2hZk"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "gewuchtet",
+    "toolId": 10087,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.02648549999999976
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.02649079999999978
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.014
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.0074
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.026
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.06
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 1
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068088E",
+    "currentTotalPath": 49.34152492139163,
+    "currentTotalLife": 993.0660000004481,
+    "name": "Einschneider",
+    "toolNumber": 11,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMTEiLCJIYXNoIjoiMjk5MDQ4ODg1MiIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.n94K9vX1ELFT1wKUtAVHIn9bUqJUFJh0avhh2FP8Lgg"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "gewuchtet, Planschneide, poliert, Freischliff",
+    "toolId": 9085,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.032281699999998026
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.03222369999999827
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.017
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.0074
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.031
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.065
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 1
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068808E",
+    "currentTotalPath": 574.825333435038,
+    "currentTotalLife": 10989.102000003093,
+    "name": "Einschneider",
+    "toolNumber": 9,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiOSIsIkhhc2giOiIyMzQ1ODA0OTMxIiwiZXhwIjoxNjM3ODgxMjAwLCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.EfEdAgG58r3AFcVJfkfeJ4r9hRMxKvW_IukiC_Jz37M"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "gewuchtet, Planschneide, poliert",
+    "toolId": 37779,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.0329324999999999
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.03293359999999993
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.026
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.026
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.065
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 1
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068808X",
+    "currentTotalPath": 19.521159982440807,
+    "currentTotalLife": 979.7020000023313,
+    "name": "Einschneider",
+    "toolNumber": 43,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNDMiLCJIYXNoIjoiNTUyMDE2ODg2IiwiZXhwIjoxNjM3ODgxMjAwLCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.ah97dJ6jdBu9sAiR8fPv1-pPZYqFAcAGV3TWYFnu2nc"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "",
+    "toolId": 10091,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.024814999999999872
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.024814999999999872
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.019
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.019
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.063
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 4
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0078408",
+    "currentTotalPath": 2.1730885311984456,
+    "currentTotalLife": 75.94599999999019,
+    "name": "Vierschneider",
+    "toolNumber": 15,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMTUiLCJIYXNoIjoiNDE2MjYwMDc1OCIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.USSkXRp_3-HexnkAnojNtrHDcukQfYOWAZLO1TM-kag"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingFace",
+    "description": "abgesetzt, mit Eckenradius",
+    "toolId": 3004,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.010137599999999648
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.010076999999999758
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 2
+      },
+      {
+        "attribute": "Diameter",
+        "value": 0.014
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.006
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.006
+      },
+      {
+        "attribute": "CornerRadius",
+        "value": 0.0005
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.05
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068443",
+    "currentTotalPath": 135.9804626582414,
+    "currentTotalLife": 3025.3080000061386,
+    "name": "Zweischneider",
+    "toolNumber": 3,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMyIsIkhhc2giOiI2MjE3Mzk4OTMiLCJleHAiOjE2Mzc4ODEyMDAsImlzcyI6ImxvY2FsaG9zdCIsImF1ZCI6ImxvY2FsaG9zdCJ9.e58CyIcJML5ctPEjnIr7u1duM9gUzdXGO66LV75ekfw"
+  },
+  {
+    "dominatingProperty": "CornerRadius",
+    "category": "MillingRadius",
+    "description": "",
+    "toolId": 24778,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": [
+      "Diameter",
+      "TipDiameter",
+      "FluteLength",
+      "NumberOfFlutes",
+      "CornerRadius"
+    ],
+    "realGeometry": [
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.004
+      },
+      {
+        "attribute": "BodyLength",
+        "value": 0.025786699999999912
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.025786699999999912
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 4
+      },
+      {
+        "attribute": "Diameter",
+        "value": 0.012
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.012
+      },
+      {
+        "attribute": "CornerRadius",
+        "value": 0.004
+      },
+      {
+        "attribute": "TipDiameter",
+        "value": 0.004
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.012
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.004
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.05
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068414N",
+    "currentTotalPath": 11.247423808576654,
+    "currentTotalLife": 325.08000000000305,
+    "name": "Außenradiusfräser",
+    "toolNumber": 36,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMzYiLCJIYXNoIjoiMzYxNDU0MjQ2MyIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.uTL_sHsPU1Q5DSRpw5PKdDYdCF9A2t8EKB-pvf41yIo"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingSlot",
+    "description": "",
+    "toolId": 11086,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes", "CornerRadius"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.021982199999998883
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.02194419999999951
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 4
+      },
+      {
+        "attribute": "Diameter",
+        "value": 0.01
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.002
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.004
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.012
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.008
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.05
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068423N",
+    "currentTotalPath": 401.58501287785083,
+    "currentTotalLife": 5003.4960000007595,
+    "name": "T-Nutenfräser",
+    "toolNumber": 24,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMjQiLCJIYXNoIjoiMTcxMTYxODQwNCIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.Z8jwL5t6xlLGIpdvbRC43k39dacPAXNgxqkCZenlNpk"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "",
+    "toolId": 21779,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.01626339999999999
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.01626339999999999
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.0015
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.01
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.003
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.01
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.003
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.038
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 2
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068015S",
+    "currentTotalPath": 0.08231758807181805,
+    "currentTotalLife": 36.61799999999879,
+    "name": "Zweischneider",
+    "toolNumber": 34,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMzQiLCJIYXNoIjoiMTYwOTc4ODg0IiwiZXhwIjoxNjM3ODgxMjAwLCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.tH9wCPIc4Zm0zb3D1kmskhxLiCX_kWjExkWiM5DV2VU"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "",
+    "toolId": 37785,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.002
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.015
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.003
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.015
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.003
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.065
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 1
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068020W",
+    "currentTotalPath": null,
+    "currentTotalLife": null,
+    "name": "Einschneider",
+    "toolNumber": 49,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNDkiLCJIYXNoIjoiMjU5MjkyNDc1IiwiZXhwIjoxNjM3ODgxMjAwLCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.tXBNodp1lJp0Z6TF5xSLvnx8ZZevQlfZFGb1ohPEbPs"
+  },
+  {
+    "dominatingProperty": "ThreadAngle",
+    "category": "MillingThread",
+    "description": "",
+    "toolId": 10098,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes", "ThreadAngle"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.013506099999999908
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.013509399999999916
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.002
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.001
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.008
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.003
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.04
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 4
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.0002
+      },
+      {
+        "attribute": "ThreadAngle",
+        "value": 1.047197551
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068420",
+    "currentTotalPath": 0.3866087226348519,
+    "currentTotalLife": 61.99000000000052,
+    "name": "Gewindefräser",
+    "toolNumber": 22,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMjIiLCJIYXNoIjoiNjg4MjUwNjUxIiwiZXhwIjoxNjM3ODgxMjAwLCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.N3DBjXqOs3LlnrkG7jmiMN93f025a89qRXZcLOKhjCc"
+  },
+  {
+    "dominatingProperty": "CornerRadius",
+    "category": "MillingRadius",
+    "description": "zwei Schneiden",
+    "toolId": 11123,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": [
+      "Diameter",
+      "TipDiameter",
+      "FluteLength",
+      "NumberOfFlutes",
+      "CornerRadius"
+    ],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.008308799999999497
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.008250799999999628
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 3
+      },
+      {
+        "attribute": "Diameter",
+        "value": 0.002
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.0003
+      },
+      {
+        "attribute": "CornerRadius",
+        "value": 0.0003
+      },
+      {
+        "attribute": "TipDiameter",
+        "value": 0.002
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.003
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.0003
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.003
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.04
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "00784920",
+    "currentTotalPath": 15.561853915111406,
+    "currentTotalLife": 755.8739999999392,
+    "name": "Entgratfräser",
+    "toolNumber": 31,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMzEiLCJIYXNoIjoiOTA0MDc5ODUwIiwiZXhwIjoxNjM3ODgxMjAwLCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.ECQUT8-yDEhazYKQ_CWAQ_twFhH9kIeSkO0MnHXIsCM"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "mit Freischliff",
+    "toolId": 9006,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.01980659999999867
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.01980659999999867
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.004
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.011
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.0038
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.016
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.058
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 3
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068034A",
+    "currentTotalPath": 282.2150553049184,
+    "currentTotalLife": 8640.745999950595,
+    "name": "Dreischneider",
+    "toolNumber": 6,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNiIsIkhhc2giOiIzOTc4MDE1NzI3IiwiZXhwIjoxNjM3ODgxMjAwLCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.dvkNfr2oTJ6bruy3a3vWOxOEmUj6URYk2Ux0Tko1ugo"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "Drill",
+    "description": "6 mm Schaft",
+    "toolId": 40883,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes", "TipAngle"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.029877499999999974
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.029842199999999985
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 2
+      },
+      {
+        "attribute": "Diameter",
+        "value": 0.0033
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.021
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.05
+      },
+      {
+        "attribute": "TipAngle",
+        "value": 2.268928028
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068233L",
+    "currentTotalPath": 0.20078406846751568,
+    "currentTotalLife": 64.21599999998642,
+    "name": "Bohrer",
+    "toolNumber": 57,
+    "comment": "Kernbohrer 4",
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNTciLCJIYXNoIjoiMjQ3NDE2NTg5OCIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.7tJtB4kH8VAzWDxtbt5YkTPLs59vfi26_xB-Ute8KXU"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "Drill",
+    "description": "6 mm Schaft",
+    "toolId": 37781,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes", "TipAngle"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.028364199999999958
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.028364199999999958
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 2
+      },
+      {
+        "attribute": "Diameter",
+        "value": 0.0042
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.021
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.05
+      },
+      {
+        "attribute": "TipAngle",
+        "value": 2.268928028
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068242L",
+    "currentTotalPath": 0.1962850845867933,
+    "currentTotalLife": 130.25000000005463,
+    "name": "Bohrer",
+    "toolNumber": 45,
+    "comment": "M5 Kernlochbohrer",
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNDUiLCJIYXNoIjoiMTQ0MTg3MzcyIiwiZXhwIjoxNjM3ODgxMjAwLCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.NuHS1NyUTvL1mxaOUWIVUjAZ5BwtxF7qTxczql20VXg"
+  },
+  {
+    "dominatingProperty": "CornerRadius",
+    "category": "MillingRadius",
+    "description": "",
+    "toolId": 10086,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": [
+      "Diameter",
+      "TipDiameter",
+      "FluteLength",
+      "NumberOfFlutes",
+      "CornerRadius"
+    ],
+    "realGeometry": [
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.006
+      },
+      {
+        "attribute": "BodyLength",
+        "value": 0.00933449999999878
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.00933449999999878
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 4
+      },
+      {
+        "attribute": "Diameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.006
+      },
+      {
+        "attribute": "CornerRadius",
+        "value": 0.002
+      },
+      {
+        "attribute": "TipDiameter",
+        "value": 0.002
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.002
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.05
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068412",
+    "currentTotalPath": 86.7156013224873,
+    "currentTotalLife": 1847.5959999991644,
+    "name": "Außenradiusfräser",
+    "toolNumber": 10,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMTAiLCJIYXNoIjoiMjAwNTc1ODI0NSIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.6UW96YUxAc2iLJvzuAhknsh4ETWJWmaKsIQO2HQn-2A"
+  },
+  {
+    "dominatingProperty": "ThreadAngle",
+    "category": "MillingThread",
+    "description": "",
+    "toolId": 37790,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes", "ThreadAngle"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.015266199999999933
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.015266199999999933
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.004
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.002
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.012
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.05
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 4
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.0005
+      },
+      {
+        "attribute": "ThreadAngle",
+        "value": 1.047197551
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068451",
+    "currentTotalPath": 1.304390207767279,
+    "currentTotalLife": 333.53600000006685,
+    "name": "Gewindefräser",
+    "toolNumber": 54,
+    "comment": "M5-M10",
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNTQiLCJIYXNoIjoiMjAxMTQ0NDk3NSIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.CY9T-xULw_Hh_d-LM3ov2lmUJ74SfHf-1zsf5JvBqDA"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "",
+    "toolId": 37788,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.019852499999999995
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.019852499999999995
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.01
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.01
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.05
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 3
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068556",
+    "currentTotalPath": 0.031673766351167344,
+    "currentTotalLife": 4.615999999999715,
+    "name": "Dreischneider",
+    "toolNumber": 52,
+    "comment": "Stahl Beschichtung",
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNTIiLCJIYXNoIjoiMTgwMTMzMzY1NSIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.3Pr17bX8upwgkaHTxeX8tYXr5KRe867gNyeipu0bcL0"
+  },
+  {
+    "dominatingProperty": "TipAngle",
+    "category": "Graver",
+    "description": "",
+    "toolId": 11091,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": [],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "TipAngle", "TipDiameter"],
+    "realGeometry": [
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.05
+      },
+      {
+        "attribute": "TipAngle",
+        "value": 1.5707963267948966
+      },
+      {
+        "attribute": "BodyLength",
+        "value": 0.021508399999999893
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.021508399999999893
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.005
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.01
+      },
+      {
+        "attribute": "TipDiameter",
+        "value": 0
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068795",
+    "currentTotalPath": null,
+    "currentTotalLife": null,
+    "name": "V-Nut Fräser",
+    "toolNumber": 28,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiMjgiLCJIYXNoIjoiMzAzMjc3OTY0OCIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.MSIeuQjsMkD7tlx42LNx66QS1oLldR4dJXcx5H7ISKo"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "gewuchtet, Planschneide, poliert, Freischliff",
+    "toolId": 37783,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.02166739999999997
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.02166739999999997
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.003
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.009
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.0028
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.016
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.05
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 1
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068803L",
+    "currentTotalPath": 0.9510030088251191,
+    "currentTotalLife": 35.8119999999978,
+    "name": "Einschneider",
+    "toolNumber": 47,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNDciLCJIYXNoIjoiNDcxMTU4NjExIiwiZXhwIjoxNjM3ODgxMjAwLCJpc3MiOiJsb2NhbGhvc3QiLCJhdWQiOiJsb2NhbGhvc3QifQ.HDAFj0WMIeDxbY7HQvgO49K4ikBskFinrJ7o0p3FBqY"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "gewuchtet, Planschneide, poliert, Freischliff",
+    "toolId": 37782,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.02720399999999988
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.027198599999999885
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.004
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.009
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.0037
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.021
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.055
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 1
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068804L",
+    "currentTotalPath": 6.1721451818570054,
+    "currentTotalLife": 320.3739999999844,
+    "name": "Einschneider",
+    "toolNumber": 46,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNDYiLCJIYXNoIjoiMjU0NjgwNDg2NiIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.PxkWjzVY-ATCvLH2HKz1tlYtIdjLZTTW87H60CriScQ"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "gewuchtet, Planschneide, poliert, Freischliff",
+    "toolId": 37786,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.03141709999999995
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.031399399999999966
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.005
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.011
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.0046
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.026
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.06
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 1
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068805L",
+    "currentTotalPath": 7.891636309712916,
+    "currentTotalLife": 271.6400000000873,
+    "name": "Einschneider",
+    "toolNumber": 50,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNTAiLCJIYXNoIjoiMzU2MjAzNjM0NSIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.jTdQMWctOqjVQhkWGYJpHs1uzrJhZfwUsC80crx7QuE"
+  },
+  {
+    "dominatingProperty": "Diameter",
+    "category": "MillingEndFlat",
+    "description": "gewuchtet, Planschneide, poliert, Freischliff",
+    "toolId": 37787,
+    "shankGroup": ["ShaftDiameter", "BodyLength"],
+    "toricCutGroup": ["ShoulderDiameter", "ShoulderLength"],
+    "toolLengthGroup": ["OverallLength"],
+    "fluteGroup": ["Diameter", "FluteLength", "NumberOfFlutes"],
+    "realGeometry": [
+      {
+        "attribute": "BodyLength",
+        "value": 0.03390339999999978
+      },
+      {
+        "attribute": "ReferenceBodyLength",
+        "value": 0.03389849999999981
+      }
+    ],
+    "nominalGeometry": [
+      {
+        "attribute": "Diameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "FluteLength",
+        "value": 0.013
+      },
+      {
+        "attribute": "ShoulderDiameter",
+        "value": 0.0055
+      },
+      {
+        "attribute": "ShoulderLength",
+        "value": 0.031
+      },
+      {
+        "attribute": "ShaftDiameter",
+        "value": 0.006
+      },
+      {
+        "attribute": "OverallLength",
+        "value": 0.065
+      },
+      {
+        "attribute": "NumberOfFlutes",
+        "value": 1
+      },
+      {
+        "attribute": "FluteAngle",
+        "value": 0.523598776
+      }
+    ],
+    "vendor": "DATRON",
+    "maxToolPath": null,
+    "maxToolLife": null,
+    "articleNumber": "0068806L",
+    "currentTotalPath": 11.656164077086054,
+    "currentTotalLife": 741.2800000001504,
+    "name": "Einschneider",
+    "toolNumber": 51,
+    "comment": null,
+    "imageUrl": "/api/v1.0/Image/Tool?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJUb29sTnVtYmVyIjoiNTEiLCJIYXNoIjoiMzU4NjY4NDYwOSIsImV4cCI6MTYzNzg4MTIwMCwiaXNzIjoibG9jYWxob3N0IiwiYXVkIjoibG9jYWxob3N0In0.k4-qyshTAQRD9NBO9eFj_9e3WCmwJNERwgxMkMpdh1w"
+  }
+]
